@@ -1,5 +1,5 @@
 # Transition Trick3
-![transition-trick3](https://github.com/Saba-Aghajani-developer/transition-trick3/assets/135870519/21daa53e-df24-4d69-9334-97b1594412dc)
+![view2](https://github.com/Saba-Aghajani-developer/transition-trick3/assets/135870519/03e9979e-57e9-4fb8-a8f2-3af29dc98519)
 
 - [Demo Project](https://saba-aghajani-developer.github.io/transition-trick3/)
 
